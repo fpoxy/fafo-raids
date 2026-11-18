@@ -1,0 +1,46 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
+  "entries": [
+    {
+      "id": "20261117-201627-ekey",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-18T01:16:27.000Z",
+      "dateEnd": "2026-11-18T02:54:13.387Z",
+      "dateLabel": "11/17/2026, 8:16:27 PM - 11/17/2026, 9:54:13 PM",
+      "url": "https://fpoxy.github.io/fafo-raids/?report=20261117-201627-ekey",
+      "publishedBy": "fpoxy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 1,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 47
+      }
+    }
+  ]
+}
